@@ -1,20 +1,20 @@
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: "Tag Cloud"
+categories: 分类（其实是瞎分的）
+search: 查找是不可能实现的
+tags: 标签都是瞎写的
+tagcloud: "标签☁️都是瞎写的"
 tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: "Page %d"
-recent_posts: "Recent Posts"
-description: Description
-read_more: "Read More"
-links: Links
-top: Pin
-no_comment: "No comments yet. Press the button and go to comment now!"
-go_to_comment: "Go to comment"
-recent_comments: "Recent Comments"
-recommended_posts: "Recommended Posts"
+prev: 上一页
+next: 下一页
+comment: 评论是不可能评论的
+archive_a: 档案里面什么都没有
+archive_b: "什么都没有的档案: %s"
+page: "页码都是假的 %d"
+recent_posts: "不可能有什么最近的文章的"
+description: 描述都是假的
+read_more: "阅读更多"
+links: 没有什么链接的
+top: 不会有置顶的
+no_comment: "评论是不可能有评论的!"
+go_to_comment: "这辈子也不可能有评论的"
+recent_comments: "别看了，评论都是假的"
+recommended_posts: "没有啥推荐的评论"

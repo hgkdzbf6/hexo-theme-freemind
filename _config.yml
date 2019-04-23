@@ -1,29 +1,29 @@
-slogan: "Yet another bootstrap theme."
+slogan: "目前还是想学一点东西，学什么东西随缘qwq。反正肯定是计算机跑不了qwq"
 
-theme: cerulean
+theme: bootstrap
 inverse: true
 
 menu:
-  - title: Archives
+  - title: 所有文章就是所有文章
     url: archives
-    intro: "All the articles."
+    intro: "就是所有文章"
     icon: "fa fa-archive"
-  - title: Categories
+  - title: 各种分类就是各种分类
     url: categories
-    intro: "All the categories."
+    intro: "就是各种分类，没怎么分好类qwq"
     icon: "fa fa-folder"
-  - title: Tags
+  - title: 标签就是标签
     url: tags
-    intro: "All the tags."
+    intro: "分类的标签"
     icon: "fa fa-tags"
-  - title: About
+  - title: 关于我就是关于我
     url: about
-    intro: "About me."
+    intro: "想了解我是不是qwq"
     icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
+  - title: 这个网站的网址
+    url: https://github.com/hgkdzbf6/
     intro: "Freemind's Github repository."
     icon: "fa fa-github"
   - title: "My Github"
@@ -34,6 +34,10 @@ links:
     url: http://www.linkedin.com/in/hahack
     intro: "My Linkin account."
     icon: "fa fa-linkedin"
+
+auto_excerpt:
+  enable: true
+  length: 150
 
 widgets:
 - search
@@ -63,6 +67,7 @@ baidu_tongji:
 
 # search
 # swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+
 
 # share widgets
 bdshare: true
